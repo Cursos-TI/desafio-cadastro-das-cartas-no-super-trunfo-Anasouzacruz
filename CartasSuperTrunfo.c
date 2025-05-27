@@ -5,7 +5,7 @@ int main() {
     // Variáveis para a primeira carta
     char estado1;               // Estado da primeira carta
     char codigo1[4];            // Código da primeira carta
-    char nomeCidade1[50];       // Nome da cidade da primeira carta
+    char nomeCidade1[50];       // Nome da cidade da primeira carta;
     int populacao1;             // População da cidade
     float area1;                // Área da cidade em km²
     float pib1;                 // PIB da cidade
